@@ -1,0 +1,4 @@
+Station,Distance,Nextfile,Soonfile,Chime,Voice,Dept
+Tokyo,,,,tokyo_chime.wav,01.wav,12:07:00
+Shimbashi,1800,shinbashi_01.wav,shinbashi_02.wav,shinbashi_chime.wav,02.wav,12:10:00
+Shinagawa,4720,shinagawa_01.wav,shinagawa_02.wav,shinbashi_chime.wav,02.wav,12:15:30
